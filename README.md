@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## ScreenShots
+
+![Screenshot (29)](https://github.com/trsrathnayaka/Flutter_Assignment1/assets/97075043/3017275d-4c2c-48c2-a221-a38f721e65cc)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
