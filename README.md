@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## ScreenShots
 
-![Screenshot (29)](https://github.com/trsrathnayaka/Flutter_Assignment1/assets/97075043/3017275d-4c2c-48c2-a221-a38f721e65cc)
+![Screenshot (29)](https://github.com/trsrathnayaka/Flutter_Assignment1/assets/97075043/102a2859-787b-4622-ab57-631877eafe02)
+
 
 ## Getting Started
 
